@@ -1,7 +1,7 @@
 # メンター・サポーター登録希望者向けオリエンテーション資料
 
-CoderDojo岐阜にメンターもしくはサポーターとして登録を希望される方向けのオリエンテーション資料です。
+CoderDojo 岐阜にメンターもしくはサポーターとして登録を希望される方向けのオリエンテーション資料です。
 
-マークダウン記法で書いてありますが、[Deckset](https://www.deckset.com/)でスライドとして利用することを想定して書いてあります。
+Google Slide を利用して作成しており、最新版はこちらになります。
 
-他のプレゼンテーションアプリを利用される場合には、テキストのみ再利用してください。
+https://docs.google.com/presentation/d/1NrcqkgIIdEbnlUZR6O9MIhXB1enCTgIfuntW3cc-VcI/edit?usp=sharing
